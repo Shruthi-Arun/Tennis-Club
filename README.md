@@ -6,18 +6,18 @@ A simple Tennis Club Management program written in C that calculates the total a
 2. SILVER - 20% Discount
 4. PLATINUM - 5% Discount
 
-**#Hourly Cost**
+**#Hourly Cost** <br>
 1000 per hour
 
-**#Discount Calculation formula**
+**#Discount Calculation formula** <br>
 1.GOLD MEMBERSHIP -<br>
-   _  discount_amount=30*(1000*hours_spent)/100;    <br>
-     discount_price=((1000\*hours_spent)-discount_amount);     <br>_
+<em> discount_amount=30*(1000*hours_spent)/100;    <br>
+     discount_price=((1000\*hours_spent)-discount_amount);     <br> </em>
      
 2.SILVER MEMBERSHIP - <br>
-    _ discount_amount=20*(1000*hours_spent)/100;            <br>
-     discount_price=((1000\*hours_spent)-discount_amount);      <br>_
+<em> discount_amount=20*(1000*hours_spent)/100;            <br>
+     discount_price=((1000\*hours_spent)-discount_amount);      <br></em>
      
 3.PLATINUM MEMBERSHIP - <br>
-   _ discount_amount=5*(1000*hours_spent)/100;           <br>
-    discount_price=((1000\*hours_spent)-discount_amount);          <br>_
+<em> discount_amount=5*(1000*hours_spent)/100;           <br>
+     discount_price=((1000\*hours_spent)-discount_amount);          <br></em>
